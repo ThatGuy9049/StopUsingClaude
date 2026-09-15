@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Stop Using Claude",
+  "version": "1.1.1",
+  "description": "Closes any tab of Anthropic's Claude to stop the user from using it..",
+  "permissions": [
+    "tabs",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://claude.ai/*"
+  ],
+  "icons": {
+    "16": "thumb.png",
+    "48": "thumb.png",
+    "128": "thumb.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "thumb.png",
+      "48": "thumb.png",
+      "128": "thumb.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
