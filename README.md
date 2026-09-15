@@ -1,7 +1,7 @@
 <img width="1920" height="1920" alt="thumb" src="https://github.com/user-attachments/assets/6b1269f2-178f-4c74-9414-01506938d5a0" />
 
 
-# StopPlayingUCDR 
+# StopUsingClaude 
 
 The ultimate tool for remembering which AI copes the hardest when you give it instruction!
 
